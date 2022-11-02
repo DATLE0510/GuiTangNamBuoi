@@ -53,4 +53,16 @@ const CONFIG = {
 			printf("Chuc ban may man lan sau");
 		}
 		return 0;
+.chevron {
+  position: relative;
+  display: block;
+  height: 1152px; /*height should be double border*/
+}
+
+.chevron::before,
+.chevron::after {
+  position: absolute;
+  display: block;
+  content: "";
+  border: 2048px solid transparent; /*adjust size*/
 }
