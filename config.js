@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại tìm thấy Nam <3',
     btnReply: 'Gửi đén anh yêu của em <3',
     reply: 'Yêu thì yêu mà không yêu phải yêu <33333333',
-    mess: 'Anh biết mà 🥰. Love Nam nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Luv Nam nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé bae.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Dạaaaaaa <3',
     messLink: 'http://m.me/datt.510' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
